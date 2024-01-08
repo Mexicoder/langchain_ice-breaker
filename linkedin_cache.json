@@ -1,0 +1,242 @@
+{
+  "https://ca.linkedin.com/in/john-friesen": {
+    "public_identifier": "john-friesen",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/john-friesen/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240108%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240108T185946Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0150a8bdb65a5a9b73552e239ee7985952ac5586170187d3f636869bf10ac64c",
+    "background_cover_image_url": null,
+    "first_name": "\ud83c\udf29\ufe0f John",
+    "last_name": "Friesen \ud83d\udd29",
+    "full_name": "\ud83c\udf29\ufe0f John Friesen \ud83d\udd29",
+    "follower_count": 534,
+    "occupation": "Senior Software Developer at DataStreamer",
+    "headline": "\ud83d\ude0e Software Developer | \ud83c\udf1f API Architect | \ud83d\ude80 DevOps Enthusiast | \ud83d\udcbb Golang, C# | \u2601\ufe0f Cloud Software Engineer, Google Cloud Platform, Azure, Kubernetes, Serverless",
+    "summary": "\ud83d\udc4b\ud83c\udffb Hi, I'm a cloud software developer with 7+ years of experience in software engineering, API development, cloud engineering, and DevOps. I'm experienced in creating scalable, reliable, and secure applications that can handle any challenge.\n\n\ud83d\udc68\u200d\ud83d\udcbb My skills include:\n\n- \ud83d\udda5\ufe0f Programming languages: C#, Golang, Java\n- \u2601\ufe0f Cloud platforms: Google Cloud Platform (GCP), Azure\n- \ud83d\udcbe Cloud services: serverless, Kubernetes, data storage solutions\n- \ud83e\udd16 DevOps practices: CI/CD pipelines, cost reduction, key stakeholders engagement\n- \ud83c\udfd7\ufe0f Architecture design: scalability, performance, reliability, security\n- \ud83d\udcc8 Project planning and execution\n- \ud83d\udd0d System analysis and improvement\n- \ud83d\udd19 Backend software development\n- \ud83d\ude80 Launching and maintaining APIs\n\n\ud83d\udd0d Some of my notable achievements include:\n\n- \ud83c\udf1f Launched my own API (if you are curious ask me about it :D)\n- \ud83d\udcca Developed a product trend history database\n- \ud83d\udcb0 Reduced cloud hosting costs by 30% by optimizing server sizing and reducing alert fatigue\n- \ud83e\uddd1\u200d\ud83c\udfeb Mentored junior developers on software development best practices and helped them improve their skills\n- \ud83d\uddc4\ufe0f Spearheaded a 50+ TB data migration project from on-premises servers to GCP using pubsub and Kubernetes\n- \ud83d\udcbb Brought DevOps practices to several companies, resulting in improved collaboration and faster time-to-market\n\n\u2615 Interested in chatting or having a virtual coffee? Let's connect!",
+    "country": "CA",
+    "country_full_name": "Canada",
+    "city": "Toronto",
+    "state": "Ontario",
+    "experiences": [
+      {
+        "starts_at": { "day": 1, "month": 1, "year": 2021 },
+        "ends_at": { "day": 31, "month": 5, "year": 2022 },
+        "company": "DataStreamer",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/datastreamer/",
+        "title": "Senior Software Developer",
+        "description": "In this role i was also Head of DevOps, I led the development and maintenance of distributed systems that collect data, ingestion, full-text search, and storage, enabling clients to analyze and query large volumes of unstructured data from various sources. Additionally, I was responsible for managing technical interactions with vendors or cloud service providers.\n\nKEY ACHIEVEMENTS:\n\ud83d\udd39Spearheaded a data migration project from on-premises servers to GCP, which involved moving 50+ TB of unstructured data. Utilized pubsub to receive the data from on-premises servers and created an ingestion Kubernetes deployment for injecting data into our GKE Elasticsearch cluster\n\ud83d\udd39Managed hundreds of on-premises using Ansible, SSH, and Linux for optimal performance and reliability. Hosting in-house Java applications, Elasticsearch, Cassandra, and ActiveMQ for data storage and search functionality\n\ud83d\udd39Participated in software-related hiring interviews to ensure that new hires had the necessary skills and experience to support our distributed systems\n\ud83d\udd39Conducted cost analysis and planning for reducing hosting costs by more than 30% with server optimization/downsizing and cloud product usage",
+        "location": "London, Ontario, Canada",
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQENCylkNG6SWQ/company-logo_400_400/0/1654721616546?e=1702512000&v=beta&t=VM9U_a65BP1oTywHIVR6qFGhUjiNG-eVMbj1IJ4h_F8"
+      },
+      {
+        "starts_at": { "day": 1, "month": 1, "year": 2020 },
+        "ends_at": { "day": 31, "month": 1, "year": 2021 },
+        "company": "Accenture",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture/",
+        "title": "Senior Azure Cloud Engineer",
+        "description": "While on the Presto Client project at Accenture, I leveraged my expertise in Azure Cloud technologies and services to provide guidance on monitoring critical transportation payment processing systems. My role involved leading the team's effort on developing integrations between monitoring services and working with multiple development teams to gather monitoring requirements and help them find the best ways to monitor their applications using Azure's full suite of monitoring offerings.\n\nKEY ACHIEVEMENTS:\n\ud83d\udd39 Rearchitected integration projects resulting in reliable near real-time processing that saved roughly 50% on cloud hosting costs\n\ud83d\udd39 Collaborated with multiple teams to devise optimal monitoring solutions for their cloud deployments which reduced alert fatigue and turnaround time for operations teams\n\ud83d\udd39 Designed secure monitoring data pipelines by introducing SSL-secured traffic between cloud and on-premises monitoring products using Azure IAM service accounts and firewall rules\n\ud83d\udd39Introduced software development best practices including implementing Azure DevOps for CI/CD, Git repository usage for code management, and task management across the team",
+        "location": "Toronto, Ontario, Canada",
+        "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303421?e=1702512000&v=beta&t=6bjku6gQ0SYCUcM770UcTgVbmlub40YPRyoHk35KePs"
+      },
+      {
+        "starts_at": { "day": 1, "month": 4, "year": 2019 },
+        "ends_at": { "day": 31, "month": 1, "year": 2020 },
+        "company": "IMC BA",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/imc-brands-applied/",
+        "title": "Intermediate Full-stack Developer",
+        "description": "As an Intermediate Full-Stack Developer at IMC Business Architecture, I worked primarily with C# and JavaScript while leveraging my expertise in Azure Cloud services. My role involved developing and deploying software for clients by building customized features on top of their existing CMS systems hosted on the Azure platform. This included working closely with clients in meetings to understand their needs and requirements so that I could provide expert solutions tailored to their specific business goals. \n\nKEY ACHIEVEMENTS:\n\ud83d\udd39Mentored junior developers on best practices for coding, project management, and communication skills leading to their professional growth\n\ud83d\udd39Collaborated with design teams to create user-friendly interfaces for client software systems resulting in improved customer satisfaction\n\ud83d\udd39Ensured timely and quality completion of software development projects with cross-functional teams\n\ud83d\udd39Provided hands-on training on the optimal use of Git to employees in the company",
+        "location": "Toronto, Canada Area",
+        "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHShk5WGe_NHg/company-logo_400_400/0/1562605982543?e=1702512000&v=beta&t=CBG3sdKzDEjLYc4gR9Q3Qvpm_TxF0pucAPILvsr2Dhk"
+      },
+      {
+        "starts_at": { "day": 1, "month": 3, "year": 2018 },
+        "ends_at": { "day": 31, "month": 3, "year": 2019 },
+        "company": "Plexus International",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/plexus-international/",
+        "title": "Intermediate Software Developer",
+        "description": "Part of a team creating a product to provide the Automotive industry (AIAG) with proper data centralization and source control system related to vehicle parts and processes.\nEnsured effective collaborations between customers and application developers to design bespoke digital products by assigning work tasks, establishing priorities, and coordinating with team members. Actively contributed to the architecture of large-scale IT systems development projects.\n\nKEY ACHIEVEMENTS:\n\ud83d\udd39Decreased dev cloud costs by 25% through maximizing the adoption of cloud resources throughout the organization and effective coding practices/architecture design\n\ud83d\udd39Initiated DevOps practices to streamline the full software development life cycle and drive optimum efficiency\n\ud83d\udd39Recruited, supervised, and mentored co-op students, evaluated team performance, assessed training needs, and conducted training sessions to improve productivity\n\ud83d\udd39Provided projection of unexpected cloud costs that opposed product pricing model by conducting project analysis",
+        "location": "London, Canada Area",
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQHaPt60huKv4Q/company-logo_400_400/0/1524173398960?e=1702512000&v=beta&t=cWa69DJqonRUqmtTmOlwdcjrO86evm1AFqFhdoNW67w"
+      },
+      {
+        "starts_at": { "day": 1, "month": 5, "year": 2016 },
+        "ends_at": { "day": 31, "month": 3, "year": 2018 },
+        "company": "TUKU Inc.",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/tuku-inc-/",
+        "title": "Computer programmer Analyst",
+        "description": "Overseen remote developers while establishing daily targets, monitoring ongoing progress, and providing constructive feedback on staff performance. Structured web applications and APIs by utilizing advanced tools and multiple Azure cloud services. Automated reporting process by designing data models and data aggregation system.\n\nKEY ACHIEVEMENTS:\n\ud83d\udd39Optimized website efficiency by a minimum of 50% by performing web analysis and identifying areas of improvement\n\ud83d\udd39Introduced and implemented a server-less architecture for multi-platform messaging service.\n\ud83d\udd39Mentored junior developers by implementing pull requests, open communication and fostering good habits in our industry that they can take with them anywhere they go",
+        "location": "London, Ontario, Canada",
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQH3syQic_NWTw/company-logo_400_400/0/1519865709131?e=1702512000&v=beta&t=ihUg49CCB7cAVMmXQSX73_qHOPfeH0lTupW9MYPmvKQ"
+      },
+      {
+        "starts_at": { "day": 1, "month": 9, "year": 2017 },
+        "ends_at": { "day": 31, "month": 1, "year": 2018 },
+        "company": "Fanshawe College",
+        "company_linkedin_profile_url": "https://www.linkedin.com/school/fanshawe-college/",
+        "title": "Teacher\u2019s Assistant",
+        "description": "I helped in Fanshawe's Computer Programmer Analyst program in their 3rd semester C++ class.\nI helped make the professor's job an easier in the class by helping the students. Either with troubleshooting or answering their question so they have a better understanding of the course content.",
+        "location": "London, Canada Area",
+        "logo_url": "https://media.licdn.com/dms/image/D560BAQGmpzG4QR6hTg/company-logo_400_400/0/1690203601055?e=1702512000&v=beta&t=P3MFIRrczddq5Eayt9b8MUosJZ0y0A3rVxqSxvzHZcw"
+      },
+      {
+        "starts_at": { "day": 1, "month": 9, "year": 2015 },
+        "ends_at": { "day": 31, "month": 12, "year": 2015 },
+        "company": "Ivey Business School",
+        "company_linkedin_profile_url": "https://www.linkedin.com/school/ivey-business-school/",
+        "title": "Programmer Analyst",
+        "description": ".Net web development working on student organization applications.\nCreated an automated testing process using Telerik tools and custom created C# libraries for wiping and resetting of the testing database.\nIntegrated with Jenkins to automate the execution of the End-to-end tests.",
+        "location": "London, Ontario, Canada",
+        "logo_url": "https://media.licdn.com/dms/image/D560BAQFi9pCOBrPeow/company-logo_400_400/0/1690892531295?e=1702512000&v=beta&t=rgNDtmYzV6GAMvxdBB_eYSrgWvKFoWMUI3r9GE6krwQ"
+      },
+      {
+        "starts_at": { "day": 1, "month": 1, "year": 2015 },
+        "ends_at": { "day": 30, "month": 4, "year": 2015 },
+        "company": "Wavelength HCM",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/akira-systems/",
+        "title": ".NET Developer",
+        "description": "Web Developer working with Asp.net, C#, Javascript, SQL,Bootstrap and Knockout.",
+        "location": "London Ontario",
+        "logo_url": "https://media.licdn.com/dms/image/C510BAQEbmyaOovFXHQ/company-logo_400_400/0/1519866682128?e=1702512000&v=beta&t=8vtuvyBLc99QmOOrLu_ZAgCkrxR8xm5fNk-jRwsoarw"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": { "day": 1, "month": 1, "year": 2013 },
+        "ends_at": { "day": 31, "month": 1, "year": 2016 },
+        "field_of_study": "Computer Programmer Analyst",
+        "degree_name": "Co op Endorsed Advanced Diploma",
+        "school": "Fanshawe College",
+        "school_linkedin_profile_url": null,
+        "description": null,
+        "logo_url": "https://media.licdn.com/dms/image/D560BAQGmpzG4QR6hTg/company-logo_400_400/0/1690203601055?e=1702512000&v=beta&t=P3MFIRrczddq5Eayt9b8MUosJZ0y0A3rVxqSxvzHZcw",
+        "grade": null,
+        "activities_and_societies": null
+      }
+    ],
+    "languages": ["English"],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+      {
+        "title": "3rd Prize TD Android Challenge ",
+        "issuer": "Steve Langham, Lianne Wong, Andrea Classen",
+        "issued_on": { "day": 1, "month": 12, "year": 2016 },
+        "description": "A coding challenge to make an Android app that was related the finance. The app had to utilize NFC and Wearable Technology (smart watch).  I was partners with Stephen Fisher."
+      },
+      {
+        "title": "Dean's Honour Roll",
+        "issuer": null,
+        "issued_on": { "day": 1, "month": 8, "year": 2015 },
+        "description": null
+      }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+      {
+        "starts_at": { "day": 1, "month": 3, "year": 2020 },
+        "ends_at": null,
+        "name": "Google Cloud - Cloud Architecture",
+        "license_number": null,
+        "display_source": "qwiklabs.com",
+        "authority": "Qwiklabs",
+        "url": "https://www.qwiklabs.com/public_profiles/64491391-ad34-4b50-a041-d69cb974152a/badges/213252"
+      },
+      {
+        "starts_at": { "day": 1, "month": 2, "year": 2020 },
+        "ends_at": null,
+        "name": "Google Cloud - Cloud Engineering",
+        "license_number": null,
+        "display_source": "qwiklabs.com",
+        "authority": "Qwiklabs",
+        "url": "https://www.qwiklabs.com/public_profiles/64491391-ad34-4b50-a041-d69cb974152a/badges/209434"
+      },
+      {
+        "starts_at": { "day": 1, "month": 3, "year": 2020 },
+        "ends_at": { "day": 31, "month": 3, "year": 2022 },
+        "name": "Google Cloud Associate",
+        "license_number": "akDpfN",
+        "display_source": "credential.net",
+        "authority": "Google",
+        "url": "https://www.credential.net/5bf21036-9228-436d-b4ae-cfb3f550c971"
+      }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+      {
+        "link": "https://www.linkedin.com/in/chunhui-ma-4b3a68160",
+        "name": "Chunhui Ma",
+        "summary": "Diploma at Fanshawe College",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/ericakimdev",
+        "name": "Erica Kim",
+        "summary": "Software Engineer",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/nielsen-reaveley-3a9611282",
+        "name": "Nielsen Reaveley",
+        "summary": "Machine Learning Engineer",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/youngminchung",
+        "name": "Youngmin Chung",
+        "summary": "Software Developer",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/mrweblord",
+        "name": "Ian Lalonde",
+        "summary": "Software Development Manager, Architect, Senior Developer, ScrumMaster",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/ryu-joseph",
+        "name": "Joseph Ryu",
+        "summary": "Software Engineer at Salesforce",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/brian-newells-business",
+        "name": "Brian Newell",
+        "summary": "Senior Software Developer",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/nicole-crook-66910727b",
+        "name": "Nicole Crook",
+        "summary": "Principal Developer at CARFAX Canada",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/beckydomenico",
+        "name": "Becky Domenico",
+        "summary": "Senior Business Analyst | CARFAX | CSM",
+        "location": null
+      },
+      {
+        "link": "https://www.linkedin.com/in/shawn-ellsworth-178bb0124",
+        "name": "Shawn Ellsworth",
+        "summary": "--",
+        "location": null
+      }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+  }
+}
