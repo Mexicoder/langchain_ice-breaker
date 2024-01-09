@@ -4,7 +4,7 @@ from langchain.serpapi import SerpAPIWrapper
 class CustomSerpAPIWrapper(SerpAPIWrapper):
     def __init__(self):
         super(CustomSerpAPIWrapper, self).__init__()
-    
+
     @staticmethod
     def _process_response(res: dict) -> str:
         """Process response from SerpAPI."""
@@ -35,7 +35,7 @@ class CustomSerpAPIWrapper(SerpAPIWrapper):
         else:
             toret = "No good search result found"
         return toret
-        
+
 
 def get_profile_url(text: str) -> str:
     """Seraches for Linkedin Profile Page."""

@@ -1,7 +1,7 @@
 {
   "https://ca.linkedin.com/in/john-friesen": {
     "public_identifier": "john-friesen",
-    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/john-friesen/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240108%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240108T185946Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0150a8bdb65a5a9b73552e239ee7985952ac5586170187d3f636869bf10ac64c",
+    "profile_pic_url": "",
     "background_cover_image_url": null,
     "first_name": "\ud83c\udf29\ufe0f John",
     "last_name": "Friesen \ud83d\udd29",
@@ -96,61 +96,8 @@
         "logo_url": "https://media.licdn.com/dms/image/C510BAQEbmyaOovFXHQ/company-logo_400_400/0/1519866682128?e=1702512000&v=beta&t=8vtuvyBLc99QmOOrLu_ZAgCkrxR8xm5fNk-jRwsoarw"
       }
     ],
-    "education": [
-      {
-        "starts_at": { "day": 1, "month": 1, "year": 2013 },
-        "ends_at": { "day": 31, "month": 1, "year": 2016 },
-        "field_of_study": "Computer Programmer Analyst",
-        "degree_name": "Co op Endorsed Advanced Diploma",
-        "school": "Fanshawe College",
-        "school_linkedin_profile_url": null,
-        "description": null,
-        "logo_url": "https://media.licdn.com/dms/image/D560BAQGmpzG4QR6hTg/company-logo_400_400/0/1690203601055?e=1702512000&v=beta&t=P3MFIRrczddq5Eayt9b8MUosJZ0y0A3rVxqSxvzHZcw",
-        "grade": null,
-        "activities_and_societies": null
-      }
-    ],
     "languages": ["English"],
-    "accomplishment_organisations": [],
-    "accomplishment_publications": [],
-    "accomplishment_honors_awards": [
-      {
-        "title": "3rd Prize TD Android Challenge ",
-        "issuer": "Steve Langham, Lianne Wong, Andrea Classen",
-        "issued_on": { "day": 1, "month": 12, "year": 2016 },
-        "description": "A coding challenge to make an Android app that was related the finance. The app had to utilize NFC and Wearable Technology (smart watch).  I was partners with Stephen Fisher."
-      },
-      {
-        "title": "Dean's Honour Roll",
-        "issuer": null,
-        "issued_on": { "day": 1, "month": 8, "year": 2015 },
-        "description": null
-      }
-    ],
-    "accomplishment_patents": [],
-    "accomplishment_courses": [],
-    "accomplishment_projects": [],
-    "accomplishment_test_scores": [],
-    "volunteer_work": [],
     "certifications": [
-      {
-        "starts_at": { "day": 1, "month": 3, "year": 2020 },
-        "ends_at": null,
-        "name": "Google Cloud - Cloud Architecture",
-        "license_number": null,
-        "display_source": "qwiklabs.com",
-        "authority": "Qwiklabs",
-        "url": "https://www.qwiklabs.com/public_profiles/64491391-ad34-4b50-a041-d69cb974152a/badges/213252"
-      },
-      {
-        "starts_at": { "day": 1, "month": 2, "year": 2020 },
-        "ends_at": null,
-        "name": "Google Cloud - Cloud Engineering",
-        "license_number": null,
-        "display_source": "qwiklabs.com",
-        "authority": "Qwiklabs",
-        "url": "https://www.qwiklabs.com/public_profiles/64491391-ad34-4b50-a041-d69cb974152a/badges/209434"
-      },
       {
         "starts_at": { "day": 1, "month": 3, "year": 2020 },
         "ends_at": { "day": 31, "month": 3, "year": 2022 },
@@ -161,82 +108,6 @@
         "url": "https://www.credential.net/5bf21036-9228-436d-b4ae-cfb3f550c971"
       }
     ],
-    "connections": null,
-    "people_also_viewed": [
-      {
-        "link": "https://www.linkedin.com/in/chunhui-ma-4b3a68160",
-        "name": "Chunhui Ma",
-        "summary": "Diploma at Fanshawe College",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/ericakimdev",
-        "name": "Erica Kim",
-        "summary": "Software Engineer",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/nielsen-reaveley-3a9611282",
-        "name": "Nielsen Reaveley",
-        "summary": "Machine Learning Engineer",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/youngminchung",
-        "name": "Youngmin Chung",
-        "summary": "Software Developer",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/mrweblord",
-        "name": "Ian Lalonde",
-        "summary": "Software Development Manager, Architect, Senior Developer, ScrumMaster",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/ryu-joseph",
-        "name": "Joseph Ryu",
-        "summary": "Software Engineer at Salesforce",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/brian-newells-business",
-        "name": "Brian Newell",
-        "summary": "Senior Software Developer",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/nicole-crook-66910727b",
-        "name": "Nicole Crook",
-        "summary": "Principal Developer at CARFAX Canada",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/beckydomenico",
-        "name": "Becky Domenico",
-        "summary": "Senior Business Analyst | CARFAX | CSM",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/shawn-ellsworth-178bb0124",
-        "name": "Shawn Ellsworth",
-        "summary": "--",
-        "location": null
-      }
-    ],
-    "recommendations": [],
-    "activities": [],
-    "similarly_named_profiles": [],
-    "articles": [],
-    "groups": [],
-    "skills": [],
-    "inferred_salary": null,
-    "gender": null,
-    "birth_date": null,
-    "industry": null,
-    "extra": null,
-    "interests": [],
-    "personal_emails": [],
-    "personal_numbers": []
+    "connections": null
   }
 }
