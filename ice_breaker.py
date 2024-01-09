@@ -8,10 +8,10 @@ from third_parties.linkedin import scrape_linkedin_profile
 
 from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 from third_parties.twitter import scrap_user_tweets
-from output_parser import person_intel_parser
+from output_parser import person_intel_parser, PersonIntel
 
 
-def ice_break(name: str) -> str:
+def ice_break(name: str) -> PersonIntel:
     linkedin_profile_url = linkedin_lookup_agent(
         # name="John Friesen the Software Developer from London Ontario"
         name=name
@@ -43,12 +43,11 @@ def ice_break(name: str) -> str:
 
     result = chain.run(information=linkedin_data)
     # result = chain.invoke(input=linkedin_data)
-    print(result)
-    return result
+    return person_intel_parser.parse(result) 
 
 
 if __name__ == "__main__":
     print("Hello LangChain!")
-    ice_break(name="John Friesen the Software Developer from London Ontario")
+    print(ice_break(name="John Friesen the Software Developer from London Ontario"))
 
     # print(scrap_user_tweets(username="@elonmusk", num_tweets=5))
