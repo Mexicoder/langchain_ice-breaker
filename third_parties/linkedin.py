@@ -34,13 +34,11 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
         k: v
         for k, v in data.items()
         if v not in ([], "", "", None)
-        and k not in ["people_also_viewed", "certifications","accomplishment_honors_awards"]
+        and k
+        not in ["people_also_viewed", "certifications", "accomplishment_honors_awards"]
     }
     # data.pop("certifications")
 
-    # if data.get("certifications"):
-    #     for group_dict in data.get("certifications"):
-    #         group_dict.pop("profile_pic_url")
     if data.get("groups"):
         for group_dict in data.get("groups"):
             group_dict.pop("profile_pic_url")

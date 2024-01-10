@@ -1,6 +1,6 @@
+from typing import Tuple
+
 from langchain.prompts import PromptTemplate
-# from langchain.chat_models import ChatOpenAI
-# from langchain_community.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain
 
@@ -11,7 +11,7 @@ from third_parties.twitter import scrap_user_tweets
 from output_parser import person_intel_parser, PersonIntel
 
 
-def ice_break(name: str) -> PersonIntel:
+def ice_break(name: str) -> Tuple[PersonIntel, str]:
     linkedin_profile_url = linkedin_lookup_agent(
         # name="John Friesen the Software Developer from London Ontario"
         name=name
@@ -28,9 +28,11 @@ def ice_break(name: str) -> PersonIntel:
     """
 
     summary_prompt_template = PromptTemplate(
-        input_variables=["information"], 
+        input_variables=["information"],
         template=summary_template,
-        partial_variables={"format_instructions": person_intel_parser.get_format_instructions()},
+        partial_variables={
+            "format_instructions": person_intel_parser.get_format_instructions()
+        },
     )
 
     llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
@@ -43,7 +45,10 @@ def ice_break(name: str) -> PersonIntel:
 
     result = chain.run(information=linkedin_data)
     # result = chain.invoke(input=linkedin_data)
-    return person_intel_parser.parse(result) 
+
+    ice_breakers: PersonIntel = person_intel_parser.parse(result)
+
+    return ice_breakers, linkedin_data.get("profile_pic_url")
 
 
 if __name__ == "__main__":
