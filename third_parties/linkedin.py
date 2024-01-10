@@ -51,4 +51,4 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
         json.dump(cache, f)
 
     # return response.json()
-    return json.dumps(data)
+    return data
